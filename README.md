@@ -14,6 +14,13 @@
 
 [https://react.foundation](https://react.foundation)
 
+[Components with Bit](https://bitsrc.io/digiaonline/react-foundation)
+
+<p align="center">
+  <a href="https://bitsrc.io/digiaonline/react-foundation"><img src="https://i.imagesup.co/images2/0__05c740dc39b7e2.jpg"></a>
+</p>
+
+
 ## Motivation
 
 [Foundation](http://foundation.zurb.com) is both feature-rich and easy to customize.
