@@ -51,8 +51,15 @@
   "homepage": "https://github.com/nordsoftware/react-foundation#readme",
   "dependencies": {
     "classnames": "^2.2.3",
+    "cryptiles": "^4.1.2",
+    "debug": "^2.6.9",
+    "deep-extend": "^0.5.1",
     "fbjs": "^0.8.16",
-    "prop-types": "^15.5.10"
+    "lodash": "^4.17.5",
+    "prop-types": "^15.5.10",
+    "randomatic": "^3.0.0",
+    "sshpk": "^1.13.2",
+    "tough-cookie": "^2.3.3"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
