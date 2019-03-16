@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nordsoftware/react-foundation.git"
+    "url": "git+https://github.com/mallond/littlebits.git"
   },
   "keywords": [
     "badge",
