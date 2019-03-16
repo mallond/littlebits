@@ -1,7 +1,7 @@
 {
   "name": "react-foundation",
   "version": "0.9.6",
-  "description": "Foundation as React components.",
+  "description": "forked by bizrez - Foundation as React components.",
   "main": "lib/index.js",
   "jsnext:main": "src/index.js",
   "files": [
